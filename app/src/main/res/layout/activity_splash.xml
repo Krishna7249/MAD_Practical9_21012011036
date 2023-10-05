@@ -7,4 +7,15 @@
     tools:context=".SplashActivity"
     android:background="@drawable/gradient_rectangle">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/uvpce_logo"
+        android:scaleType="fitXY"
+        android:src="@drawable/uvpce_animation_list"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
