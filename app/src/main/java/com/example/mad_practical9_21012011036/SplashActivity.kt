@@ -4,7 +4,6 @@ import android.graphics.drawable.AnimationDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
-import androidx.core.view.WindowCompat
 
 class SplashActivity : AppCompatActivity() {
     lateinit var uvpcelogoanimation : AnimationDrawable
