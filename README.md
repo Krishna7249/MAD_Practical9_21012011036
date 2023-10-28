@@ -11,3 +11,4 @@ AIM: What is Frame by Frame Animation? What is Twin Animation? How can you achie
 
 <img src="https://github.com/Krishna7249/MAD_Practical9_21012011036/assets/98690735/978786ce-4dd6-46cf-b1c7-adf07c19f5e0" width=20% height=20%>
 <img src="https://github.com/Krishna7249/MAD_Practical9_21012011036/assets/98690735/b081856d-1ffa-488c-9723-5e994ee1bb9f" width=20% height=20%>
+<img src="https://github.com/Krishna7249/MAD_Practical9_21012011036/assets/98690735/dc1d6f0c-b00a-4e9a-85a2-0fae7c7843aa" width=20% height=20%>
